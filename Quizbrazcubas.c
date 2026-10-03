@@ -58,6 +58,10 @@ void cadastrarPergunta() {
 
     printf("Codigo (ID int): ");
     scanf("%d", &p.id);
+    
+    // Consome o \n (Enter) que sobrou no teclado apos ler o inteiro
+    // Usa apenas stdio.h (padrao do material)
+    getchar();
 
     printf("Pergunta: ");
     scanf(" %249[^\n]", p.texto);
