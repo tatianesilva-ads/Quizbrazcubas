@@ -67,3 +67,5 @@ Todas as informações são armazenadas de forma persistente em um arquivo no fo
 5. O terminal do programa abrirá automaticamente com o menu interativo do Quiz de TI.
 
 ---
+
+## Link do YouTube ▶️: https://youtu.be/GvepLCO5WXE
