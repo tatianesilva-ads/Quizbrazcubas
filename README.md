@@ -68,4 +68,4 @@ Todas as informações são armazenadas de forma persistente em um arquivo no fo
 
 ---
 
-## Link do YouTube ▶️: https://youtu.be/GvepLCO5WXE
+## Link do YouTube ▶️: https://youtu.be/REk_WlwZg-4
